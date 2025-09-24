@@ -92,22 +92,5 @@ Ce programme implémente plusieurs fonctions pour manipuler des matrices et des 
   - `b` : Deuxième entier positif.
 - **Retourne :** Le produit `a × b`.
 
-## Exemples d'Utilisation
-
-```python
-# Exemple d'addition de matrices
-resultat_addition = addition_matrices([[1, 2], [3, 4]], [[5, 6], [7, 8]])
-
-# Exemple de recherche séquentielle
-indice = recherche_sequentielle([10, 20, 30], 20)
-
-# Exemple de multiplication exclusive
-produit = multiplication_exclusive(3, 4)  # Renvoie 12
-```
-
-## Conclusion
-
-Ce programme fournit une base solide pour effectuer des opérations courantes sur des matrices et des tableaux. Chaque fonction est conçue pour être simple à utiliser et peut être intégrée dans des applications plus complexes.
-```
-
-N'hésitez pas à personnaliser cette documentation en fonction de vos besoins ou à ajouter des détails supplémentaires sur les implémentations de chaque fonction.
+##Bilan 
+   a la fin de ce TP , j ai pu gagner en experience sur la programmation modulaire en C , manipulation des structures de donnees  et la collaboration en groupe 

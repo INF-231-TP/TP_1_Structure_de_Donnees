@@ -48,4 +48,4 @@
 - J’ai appris à organiser un projet en programmation modulaire.
 - J’ai revu la manipulation des matrices, vecteurs et tableaux en C.
 - J’ai acquis de l’expérience dans la structuration du code avec des fichiers séparés.
-- J’ai acquis de l’expérience dans la manipulation des structures de donnees 
+- J’ai acquis de l’expérience dans la manipulation des structures de donnees : les tableaux

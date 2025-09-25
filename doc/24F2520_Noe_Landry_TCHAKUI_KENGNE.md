@@ -21,7 +21,7 @@
 
 ---
 
-## Séance 2
+
 - Mise en place de la structure modulaire :
   - `fonction.h` : prototypes
   - `fonction.c` : définitions
@@ -30,14 +30,14 @@
 
 ---
 
-## Séance 3
+
 - Ajout des fonctions sur les tableaux (recherche, tri, médian, inversion).
 - Ajout des fonctions sur les vecteurs et produit vectoriel.
 - Compilation et premiers tests.
 
 ---
 
-## Séance 4
+
 - Finalisation du menu principal dans `main.c`.
 - Vérification du bon fonctionnement du programme.
 - Ajout de l’affichage “BIENVENUE DANS NOTRE PROGRAMME”.

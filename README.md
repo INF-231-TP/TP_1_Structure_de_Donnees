@@ -1,4 +1,4 @@
-# tp-algorithmique
+# TP-structure de donnees
 Exercices et projets d’algorithmique pour le cours INF 231
 
 
